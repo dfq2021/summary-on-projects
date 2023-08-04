@@ -1,5 +1,11 @@
 # summary on projects
 创新创业实践课project汇总报告
+
+组号：22（共一人）
+
+组员：戴方奇202100460092
+
+下面的汇总报告中说明了每个project的方式、创新等，展示了部分实验结果，具体实验报告在每个project的readme文件中展示。
 # Project1: implement the naïve birthday attack of reduced SM3
 github地址：https://github.com/dfq2021/project
 

@@ -1,7 +1,7 @@
 # summary on projects
-2021实验项目汇总
+项目汇总
 
-下面的汇总报告中说明了网络安全创新的各个project的方式方式、创新等，展示了部分实验结果，具体实验报告在每个project的readme文件中展示。
+下面的汇总报告中说明了网络安全专业中有关区块链、密码、网络安全创新的一些project的实现和自己的理解、创新等，展示了部分实验结果，具体实验报告在每个project的readme文件中展示。
 # Project1: implement the naïve birthday attack of reduced SM3
 github地址：https://github.com/dfq2021/project
 
